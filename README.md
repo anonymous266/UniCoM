@@ -1,6 +1,7 @@
 # UniCoM: Code Appendix
 
-Code appendix for ACL 2025 submission.
+Code appendix for ACL 2025 submission:
+UniCoM: A Universal Code-Switching Speech Generator for Code-Switching Speech Data Augmentation
 
 The codebases of the preprocessing pipeline, especially conducting the mappings for FLEURS and FLEURS-R languages were borrowed from the official implementation of the FLEURS and FLEURS-R datasets.
 
