@@ -1,6 +1,6 @@
 # UniCoM: Code Appendix
 
-Code appendix for ACL 2025 submission:
+Code appendix for ARR 2025 submission:
 
 UniCoM: A Universal Code-Switching Speech Generator for Code-Switching Speech Data Augmentation
 
