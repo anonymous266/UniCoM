@@ -347,8 +347,8 @@ def generate_intra(data, langs, knn_vc, num_samples=None, num_subs=None, modulat
         assert sr1 == sr2
         sr = sr1
         
-        y1 = normalize_audio(y1)
-        y2 = normalize_audio(y2)
+        y1 = preprocess_audio(y1)
+        y2 = preprocess_audio(y2)
         
         fpath1 = row_l1['file path'].values[0]
         fpath2 = row_l2['file path'].values[0]
